@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image:  gcr.io/jun-gcp/kop:master-8889c8e
+        image: gcr.io/jun-gcp/kop:master-897a4fb
         ports:
         - containerPort: 8080
